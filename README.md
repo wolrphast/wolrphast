@@ -2,12 +2,9 @@
     <img width="200" src=""> <!-- Reemplaza con tu foto o enlace -->
 </p>
 
-<h1 align="center">¡Hola Mundo! 👋 Soy Diego Montoya < Developers/ > <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
+<h1 align="center">¡Hola Mundo! 👋 Soy Diego Montoya < Developers/> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h1>
 <p align='center'>
 </p>
-
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=DiegoMontoya.DiegoMontoya)
-[![Github](https://img.shields.io/github/followers/TU_USERNAME?label=Follow&style=social)](https://github.com/TU_USERNAME)
 
 <div size='20px'> ¡Programador Full Stack apasionado por crear soluciones innovadoras! :rocket: 
 </div>
@@ -19,7 +16,7 @@
 - 💻 **Full Stack Developer** con enfoque en tecnologías modernas
 - 🌱 Actualmente profundizando en **Laravel y Python**
 - 🚀 Siempre aprendiendo y explorando nuevas tecnologías
-- 📫 Contáctame: **tu@email.com**
+- 📫 Contáctame: **believeosorio@gmail.com**
 - ⚡ Dato curioso: Amo los retos técnicos y el café ☕
 
 <h2> Habilidades Técnicas <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
@@ -43,28 +40,25 @@
 <a href="#"><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'></a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/aditya-deshmukh-561a371a8'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.twitter.com/NoobCoder07'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
-<a href = 'https://medium.com/@adityadeshmukh7350'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/medium.svg"/></a> 
-<a href = 'http://aditya664.me/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-<a href = 'https://www.github.com/Aditya664'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+<a href = 'https://github.com/wolrphast'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
   
 <br>
 <br>
   <br>
   
-[![Aditya's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+# 📊 Estadísticas Dinámicas de wolrphast 
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aditya664&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya664&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+[![Actividad Reciente](https://github-readme-activity-graph.vercel.app/graph?username=wolrphast&theme=tokyo-night&area=true)](https://github.com/wolrphast)
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+| ![Estadísticas](https://github-readme-stats.vercel.app/api?username=wolrphast&show_icons=true&theme=tokyonight&include_all_commits=true) | ![Racha de Contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=wolrphast&theme=tokyonight) |
+|-----------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
+| ![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=wolrphast&layout=compact&theme=tokyonight)       | ![Trophies](https://github-profile-trophy.vercel.app/?username=wolrphast&theme=tokyonight&margin-w=5)        |
+ 
 
 
 <br>
 
 
 -----
-Credits: [Aditya Deshmukh](https://github.com/Aditya664)
+Credits: [DIEGO MONTOYA](https://github.com/wolrphast)
 
